@@ -2,11 +2,10 @@
 name: VanillaEnchantments
 version: 4.0.0
 api:
-- 3.0.0
-- 3.1.0
-author: TheAz928
+- 3.9.3
+author: NajeeSlays
 website: "https://github.com/TheAz928/VanillaEnchantments"
 main: vanilla\Core
-description: "Vanilla enchantments implemention for pmmp"
+description: "Vanilla Enchants by NajeeSlays"
 
 ...
